@@ -7,9 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Quarto_E3CI_warm_ott.ipynb
-        text: "E3CI_Warm_Test_1"
       - about.qmd
+      # additional pages NOT listed here
 
 
 format:
